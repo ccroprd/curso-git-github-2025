@@ -1,3 +1,5 @@
 ls = Lista arquivos
 cd - Move entre diretorios
 pwd - mostra diretorios de trabalho
+cat - exibe conteudo
+rm - remove arquivo 
