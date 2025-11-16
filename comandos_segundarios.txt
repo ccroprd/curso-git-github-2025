@@ -1,3 +1,10 @@
 Esse arquivo contem informaçãoes adcionais para git
+<<<<<<< HEAD
 - Primeiro comando
 - Segundo comando
+=======
+
+comando mais genericos
+
+Mais uma alteração!
+>>>>>>> secundaria
