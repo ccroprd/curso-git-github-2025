@@ -1,3 +1,5 @@
 Esse arquivo contem informaçãoes adcionais para git
 
 comando mais genericos
+
+Mais uma alteração!
