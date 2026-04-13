@@ -9,3 +9,6 @@ Curso 2025 - (link)
 Atualização e padronização das Branchs.
 18/11 - 19h23
 ===================================================
+
+Pessoas participantes
+Rodrigo
